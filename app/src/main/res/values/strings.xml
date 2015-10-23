@@ -1,5 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_namel">Memapp</string>
+=======
+    <string name="app_nal.me">Memapp</string>
+>>>>>>> origin/prueba
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
